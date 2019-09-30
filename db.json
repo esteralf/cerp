@@ -1,10 +1,10 @@
 {
-eventos: 
+"eventos": 
   [
     {
-      DepilacionCejas:
+      "Depilacion de cejas":
         {
-          costo:5000,
+          "costo":5000,
         }
     },
     
