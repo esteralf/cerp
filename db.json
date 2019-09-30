@@ -1,3 +1,13 @@
 {
-  "eventos":[{"Depilacion de cejas":{"costo":5000}}]
+  "citas":[{
+    "cliente":{
+      "nombre":"Estela Aguirre",
+      "direccion":"J. Augusto"
+    },
+    "start":"12:00",
+    "end":"15:00",
+    "profesional":{"nombre":"Diana Camarasa"},
+    "servicios":[{
+    "Depilacion de cejas":{
+    "costo":5000}}]}]
 }
