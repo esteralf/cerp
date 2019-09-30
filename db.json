@@ -1,3 +1,7 @@
 {
-
+eventos: [{
+  DepilacionCejas:{
+    costo:5000
+  }
+}]
 }
