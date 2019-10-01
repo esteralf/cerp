@@ -10,5 +10,16 @@
     "profesional":{"nombre":"Diana Camarasa"},
     "servicios":[{
     "Depilacion de cejas":{
-    "costo":5000}}]}]}]
+    "costo":5000}}]}],
+  "2019-10-02":[{
+  "cliente":{
+      "nombre":"Augusto Lozano",
+      "direccion":"Asuncion"
+    },
+    "start":"15:15",
+    "end":"16:00",
+    "profesional":{"nombre":"Jose Feliciano"},
+    "servicios":[{
+    "Rasurado":{
+    "costo":50000}}}]}]
 }
