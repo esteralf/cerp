@@ -1,5 +1,5 @@
 {
-  "citas":[
+  "citas":[{
   "2019-10-01":[{
     "cliente":{
       "nombre":"Estela Aguirre",
@@ -10,8 +10,8 @@
     "profesional":{"nombre":"Diana Camarasa"},
     "servicios":[{
     "Depilacion de cejas":{
-    "costo":5000}}]}],
-  "2019-10-02":[{
+    "costo":5000}}]}]},
+           {"2019-10-02":[{
   "cliente":{
       "nombre":"Augusto Lozano",
       "direccion":"Asuncion"
@@ -21,6 +21,6 @@
     "profesional":{"nombre":"Jose Feliciano"},
     "servicios":[{
     "Rasurado":{
-    "costo":50000}}]}]
+    "costo":50000}}]}]}
   ]
 }
