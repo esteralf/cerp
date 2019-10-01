@@ -1,5 +1,5 @@
 {
-  "citas":[{
+  "citas":[
   "2019-10-01":[{
     "cliente":{
       "nombre":"Estela Aguirre",
@@ -22,5 +22,5 @@
     "servicios":[{
     "Rasurado":{
     "costo":50000}}]}]
-  }]
+  ]
 }
