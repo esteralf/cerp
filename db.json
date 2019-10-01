@@ -1,6 +1,7 @@
 {
   "citas":[{
-  "2019-10-01":[{
+    "fecha":"2019-10-01",
+  "servicios":[{
     "cliente":{
       "nombre":"Estela Aguirre",
       "direccion":"J. Augusto"
@@ -11,7 +12,8 @@
     "servicios":[{
     "Depilacion de cejas":{
     "costo":5000}}]}]},
-           {"2019-10-02":[{
+           {"fecha":"2019-10-02",
+            "servicios":[{
   "cliente":{
       "nombre":"Augusto Lozano",
       "direccion":"Asuncion"
