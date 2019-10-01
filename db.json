@@ -9,7 +9,7 @@
     "start":"12:00",
     "end":"15:00",
     "profesional":{"nombre":"Diana Camarasa"},
-    "servicios":[{
+    "tareas":[{
     "Depilacion de cejas":{
     "costo":5000}}]}]},
            {"fecha":"2019-10-02",
@@ -21,7 +21,7 @@
     "start":"15:15",
     "end":"16:00",
     "profesional":{"nombre":"Jose Feliciano"},
-    "servicios":[{
+    "tareas":[{
     "Rasurado":{
     "costo":50000}}]}]}
   ]
