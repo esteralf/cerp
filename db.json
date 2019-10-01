@@ -1,5 +1,6 @@
 {
-  "citas":[{
+  citas:[{
+  "2019-10-01":[{
     "cliente":{
       "nombre":"Estela Aguirre",
       "direccion":"J. Augusto"
@@ -9,5 +10,5 @@
     "profesional":{"nombre":"Diana Camarasa"},
     "servicios":[{
     "Depilacion de cejas":{
-    "costo":5000}}]}]
+    "costo":5000}}]}]}]
 }
