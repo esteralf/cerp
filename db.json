@@ -12,8 +12,8 @@
     "tareas":[{
     "Depilacion de cejas":{
     "costo":5000}}]}]},
-           {"fecha":"2019-10-02",
-            "servicios":[{
+  {"fecha":"2019-10-02",
+  "servicios":[{
   "cliente":{
       "nombre":"Augusto Lozano",
       "direccion":"Asuncion"
@@ -23,19 +23,10 @@
     "profesional":{"nombre":"Jose Feliciano"},
     "tareas":[{
     "Rasurado":{
-    "costo":50000}}]}]}
-  ],
-  "cliente":[{
-    "id": 1,
-    "nombres":"Jose",
-    "apellidos":"Ortega Abente",
-    "email":"asf@gmail.com",
-    "ci":"5267147",
-    "ruc":"798556-7",
-    "whatsapp":"0985412398",
-    "direccion":[{
-                 "calle":"",
-                 "ruta":"",
+    "costo":50000}
     }]
   }]
+ }
+  ]
+  
 }
