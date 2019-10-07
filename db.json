@@ -37,7 +37,7 @@
   "ci":"5267147", 
   "ruc":"798556-7", 
   "whatsapp":"0985412398", 
-  "direccion":[{ "calle":"", "ruta":"", }] 
+  "direccion":[{ "calle":"zz", "ruta":"xx", }] 
 }]
 
 }
