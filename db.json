@@ -28,7 +28,7 @@
   }]
  }
  ],
-  {
+  
   "clientes":[{ 
   "id": 1, 
   "nombres":"Jose", 
@@ -39,5 +39,5 @@
   "whatsapp":"0985412398", 
   "direccion":[{ "calle":"", "ruta":"", }] 
 }]
-}
+
 }
