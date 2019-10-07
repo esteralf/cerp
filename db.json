@@ -27,6 +27,17 @@
     }]
   }]
  }
-  ]
-  
+ ],
+  {
+  "clientes":[{ 
+  "id": 1, 
+  "nombres":"Jose", 
+  "apellidos":"Ortega Abente", 
+  "email":"asf@gmail.com", 
+  "ci":"5267147", 
+  "ruc":"798556-7", 
+  "whatsapp":"0985412398", 
+  "direccion":[{ "calle":"", "ruta":"", }] 
+}]
+}
 }
