@@ -14,6 +14,19 @@
       "tareas":[{
         "Depilacion de cejas":{"costo":5000}
       }]
+    },{
+      "idServicio":2,
+      "cliente":{
+        "idCliente":2,
+        "nombre":"Edith Gamarra",
+        "direccion":"Caacupe"
+      },
+      "start":"18:00",
+      "end":"20:00",
+      "profesional":{"nombre":"Emilio Bogado"},
+      "tareas":[{
+        "Diseño de Barba":{"costo":200000}
+      }]
     }]
   },
   {
@@ -21,7 +34,7 @@
     "servicios":[{
       "idServicio":2,
       "cliente":{
-        "idcliente":2,
+        "idcliente":6,
         "nombre":"Augusto Lozano",
         "direccion":"Asuncion"
       },
