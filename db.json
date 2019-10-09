@@ -3,6 +3,7 @@
     "fecha":"2019-10-01",
     "servicios":[{
       "idServicio":1,
+      "estado":"PENDIENTE",
       "cliente":{
         "idCliente":1,
         "nombre":"Estela Aguirre",
@@ -17,6 +18,7 @@
       }]
     },{
       "idServicio":2,
+      "estado":"PENDIENTE",
       "cliente":{
         "idCliente":2,
         "nombre":"Edith Gamarra",
@@ -35,6 +37,7 @@
     "fecha":"2019-10-02",
     "servicios":[{
       "idServicio":2,
+      "estado":"REALIZADO",
       "cliente":{
         "idcliente":6,
         "nombre":"Augusto Lozano",
