@@ -3,6 +3,7 @@
     "fecha":"2019-10-01",
     "servicios":[{
       "cliente":{
+        "idCliente":1,
         "nombre":"Estela Aguirre",
         "direccion":"J. Augusto"
       },
@@ -18,6 +19,7 @@
     "fecha":"2019-10-02",
     "servicios":[{
       "cliente":{
+        "idcliente":2,
         "nombre":"Augusto Lozano",
         "direccion":"Asuncion"
       },
@@ -30,7 +32,7 @@
     }]
   }],
   "clientes":[{ 
-    "id": 1,
+    "idCliente": 1,
     "nombres":"Jose",
     "apellidos":"Ortega Abente",
     "email":"asf@gmail.com",
