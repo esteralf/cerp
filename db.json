@@ -2,6 +2,7 @@
   "citas":[{
     "fecha":"2019-10-01",
     "servicios":[{
+      "idServicio":1,
       "cliente":{
         "idCliente":1,
         "nombre":"Estela Aguirre",
@@ -18,6 +19,7 @@
   {
     "fecha":"2019-10-02",
     "servicios":[{
+      "idServicio":2,
       "cliente":{
         "idcliente":2,
         "nombre":"Augusto Lozano",
