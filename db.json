@@ -12,7 +12,8 @@
       "end":"15:00",
       "profesional":{"nombre":"Diana Camarasa"},
       "tareas":[{
-        "Depilacion de cejas":{"costo":5000}
+        "tarea":"Depilacion de cejas",
+        "costo":5000
       }]
     },{
       "idServicio":2,
@@ -25,7 +26,8 @@
       "end":"20:00",
       "profesional":{"nombre":"Emilio Bogado"},
       "tareas":[{
-        "Diseño de Barba":{"costo":200000}
+        "tarea":"Diseño de Barba",
+        "costo":200000
       }]
     }]
   },
@@ -42,7 +44,8 @@
       "end":"16:00",
       "profesional":{"nombre":"Jose Feliciano"},
       "tareas":[{
-        "Rasurado":{"costo":50000}
+        "tarea":"Rasurado",
+        "costo":50000
       }]
     }]
   }],
