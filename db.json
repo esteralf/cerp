@@ -6,6 +6,7 @@
       "estado":"PENDIENTE",
       "cliente":{
         "idCliente":1,
+        "ci":15427845,
         "nombre":"Estela Aguirre",
         "direccion":"J. Augusto"
       },
@@ -21,6 +22,7 @@
       "estado":"PENDIENTE",
       "cliente":{
         "idCliente":2,
+        "ci":4589621,
         "nombre":"Edith Gamarra",
         "direccion":"Caacupe"
       },
@@ -40,6 +42,7 @@
       "estado":"REALIZADO",
       "cliente":{
         "idcliente":6,
+        "ci":5874010,
         "nombre":"Augusto Lozano",
         "direccion":"Asuncion"
       },
