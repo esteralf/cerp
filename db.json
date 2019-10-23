@@ -12,6 +12,7 @@
       },
       "start":"12:00",
       "end":"15:00",
+      "total":5000,
       "profesional":{"nombre":"Diana Camarasa"},
       "tareas":[{
         "tarea":"Depilacion de cejas",
@@ -28,6 +29,7 @@
       },
       "start":"18:00",
       "end":"20:00",
+      "total":200000,
       "profesional":{"nombre":"Emilio Bogado"},
       "tareas":[{
         "tarea":"Diseño de Barba",
@@ -48,24 +50,12 @@
       },
       "start":"15:15",
       "end":"16:00",
+      "total":50000,
       "profesional":{"nombre":"Jose Feliciano"},
       "tareas":[{
         "tarea":"Rasurado",
         "costo":50000
       }]
-    }]
-  }],
-  "clientes":[{ 
-    "idCliente": 1,
-    "nombres":"Jose",
-    "apellidos":"Ortega Abente",
-    "email":"asf@gmail.com",
-    "ci":"5267147",
-    "ruc":"798556-7",
-    "whatsapp":"0985412398",
-    "direccion":[{
-      "calle":"zz",
-      "ruta":"xx"
     }]
   }]
 }
