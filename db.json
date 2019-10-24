@@ -12,11 +12,14 @@
       },
       "start":"12:00",
       "end":"15:00",
-      "total":5000,
+      "total":35000,
       "profesional":{"nombre":"Diana Camarasa"},
       "tareas":[{
         "tarea":"Depilacion de cejas",
         "costo":5000
+      },{
+        "tarea":"Pestaña postiza",
+        "costo":30000
       }]
     },{
       "idServicio":2,
