@@ -1,49 +1,58 @@
 {
   "citas":[{
-    "fecha":"2019-10-01",
-    "servicios":[{
-      "idServicio":1,
+    "fecha":"01-10-2019",
+    "agendas":[{
+      "id":1,
       "estado":"PENDIENTE",
       "cliente":{
-        "idCliente":1,
+        "id":1,
         "ci":15427845,
         "nombre":"Estela Aguirre",
         "direccion":"J. Augusto"
       },
-      "start":"12:00",
-      "end":"15:00",
+      "inicio":"12:00",
+      "fin":"15:00",
       "total":35000,
-      "profesional":{"nombre":"Diana Camarasa"},
-      "tareas":[{
-        "tarea":"Depilacion de cejas",
+      "profesional":{
+        "id":1,
+        "nombre":"Diana Camarasa",
+      },
+      "servicios":[{
+        "id":1,
+        "nombre":"Depilacion de cejas",
         "costo":5000
       },{
-        "tarea":"Pestaña postiza",
+        "id":2,
+        "nombre":"Pestaña postiza",
         "costo":30000
       }]
     },{
-      "idServicio":2,
+      "id":2,
       "estado":"PENDIENTE",
       "cliente":{
-        "idCliente":2,
+        "id":2,
         "ci":4589621,
         "nombre":"Edith Gamarra",
         "direccion":"Caacupe"
       },
-      "start":"18:00",
-      "end":"20:00",
+      "inicio":"18:00",
+      "fin":"20:00",
       "total":200000,
-      "profesional":{"nombre":"Emilio Bogado"},
-      "tareas":[{
-        "tarea":"Diseño de Barba",
+      "profesional":{
+        "id":3,
+        "nombre":"Emilio Bogado"
+      },
+      "servicios":[{
+        "id":4,
+        "nombre":"Diseño de Barba",
         "costo":200000
       }]
     }]
   },
   {
-    "fecha":"2019-10-02",
-    "servicios":[{
-      "idServicio":2,
+    "fecha":"02-10-2019",
+    "agendas":[{
+      "id":2,
       "estado":"REALIZADO",
       "cliente":{
         "idcliente":6,
@@ -51,12 +60,16 @@
         "nombre":"Augusto Lozano",
         "direccion":"Asuncion"
       },
-      "start":"15:15",
-      "end":"16:00",
+      "inicio":"15:15",
+      "fin":"16:00",
       "total":50000,
-      "profesional":{"nombre":"Jose Feliciano"},
-      "tareas":[{
-        "tarea":"Rasurado",
+      "profesional":{
+        "id":3,
+        "nombre":"Jose Feliciano"
+      },
+      "servicios":[{
+        "id":8,
+        "nombre":"Rasurado",
         "costo":50000
       }]
     }]
