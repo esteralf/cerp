@@ -19,7 +19,7 @@
       },
       "servicios":[{
         "id":1,
-        "nombre":"Depilacion de cejas",
+        "nombre":"Depilación de cejas",
         "costo":5000
       },{
         "id":2,
