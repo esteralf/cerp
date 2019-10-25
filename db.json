@@ -55,7 +55,7 @@
       "id":2,
       "estado":"REALIZADO",
       "cliente":{
-        "idcliente":6,
+        "id":6,
         "ci":5874010,
         "nombre":"Augusto Lozano",
         "direccion":"Asuncion"
