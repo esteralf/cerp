@@ -1,6 +1,6 @@
 {
   "citas":[{
-    "fecha":"01-10-2019",
+    "fecha":"2019-10-01",
     "agendas":[{
       "id":1,
       "estado":"PENDIENTE",
@@ -50,7 +50,7 @@
     }]
   },
   {
-    "fecha":"02-10-2019",
+    "fecha":"2019-10-02",
     "agendas":[{
       "id":2,
       "estado":"REALIZADO",
